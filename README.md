@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohit Upadhyay!
+
+🎓 I'm a full-stack developer, evolving in Flutter, and exploring the fascinating world of AI/ML.
+
+## 🚀 About Me
+- 🌐 Full-stack Developer (MERN, PostgreSQL, Node.js)
+- 📱 Learning & Building with Flutter and Dart
+- 🤖 AI/ML Enthusiast working on real-world projects
+
+- 🧠 Lifelong learner, always experimenting with new tech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📫 Let's Connect
+- 💼 LinkedIn - https://www.linkedin.com/in/mohit-updhyay/
+
+
+
+
+
+
 
 <!--
 **mohitupd20/mohitupd20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
