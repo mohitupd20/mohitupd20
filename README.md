@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 - 🌐 Full-stack Developer (MERN, PostgreSQL, Node.js)
-- 📱 Learning & Building with Flutter and Dart
 - 🤖 AI/ML Enthusiast working on real-world projects
 
 - 🧠 Lifelong learner, always experimenting with new tech
